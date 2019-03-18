@@ -65,6 +65,7 @@ input[type="radio"].visually-hidden {
 
   background-color: #000000;
   border: none;
+  transition: 200ms ease-in;
 }
 
 .button:hover,
@@ -177,6 +178,7 @@ input[type="radio"].visually-hidden {
 
   vertical-align: middle;
   color: #ffffff;
+  transition: 200ms ease-in;
 }
 
 .site-navigation a:hover,
@@ -485,6 +487,7 @@ input[type="radio"].visually-hidden {
 
 .breadcrumbs a {
   color: #000000;
+  transition: 200ms ease-in;
 }
 
 .breadcrumbs a:hover,
@@ -565,6 +568,7 @@ input[type="radio"].visually-hidden {
   height: 16px;
 
   border: 2px solid #000000;
+  transition: 200ms ease-in;
 }
 
 .filter-input-checkbox:checked + label::after {
@@ -659,6 +663,7 @@ input[type="radio"].visually-hidden {
 
   background-color: #f8f8f8;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: 200ms ease-in;
 }
 
 .catalog-item:nth-child(3n) {
@@ -755,6 +760,7 @@ input[type="radio"].visually-hidden {
 
   background-color: #000000;
   text-decoration: uppercase;
+  transition: 200ms ease-in;
 }
 
 .pagination-item a:hover,
@@ -795,6 +801,7 @@ input[type="radio"].visually-hidden {
   margin-right: 20px;
 
   box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+  transition: 200ms ease-in;
 }
 
 .product-photo-preview li:hover {
@@ -1234,6 +1241,7 @@ input[type="radio"].visually-hidden {
   padding-left: 30px;
 
   cursor: pointer;
+  transition: 200ms ease-in;
 }
 
 .login-checkbox:hover,
@@ -1283,6 +1291,7 @@ input[type="radio"].visually-hidden {
 .restore {
   color: #000000;
   text-decoration: underline;
+  transition: 200ms ease-in;
 }
 
 .restore:hover,
@@ -1354,6 +1363,7 @@ input[type="radio"].visually-hidden {
 .footer-contacts a {
   color: #ffffff;
   text-decoration: underline;
+  transition: 200ms ease-in;
 }
 
 .footer-contacts a:hover,
@@ -1391,6 +1401,7 @@ input[type="radio"].visually-hidden {
   height: 43px;
 
   background-color: #000000;
+  transition: 200ms ease-in;
 }
 
 .social-button:hover,
